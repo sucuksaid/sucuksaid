@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @sucuksaid
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python / c++
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+I'm SucukSaid. 
+I play chess and minecraft
